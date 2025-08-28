@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif" width="250" alt="Banner">
 </p>
 
-<h1 align="center">🔥 <strong>GitHub Streak Maintainer Pro++</strong> 🔥</h1>
+<h1 align="center">🔥 <strong>GitHub Streak Maintainer Pro+</strong> 🔥</h1>
 <p align="center"><em>Keep your streak alive, even while you sleep!</em></p>
 
 ---
@@ -90,11 +90,9 @@ v2.0 → Pro Design + Commit History Table + Stylish UI.
 
 ---
 
-## 🚀 GitHub Streak Maintainer (Pro++)
+## 🚀 GitHub Streak Tracke (Pro+)
 
 ![Streak](https://img.shields.io/badge/Streak-Active-brightgreen)
-
-This repository automatically updates daily to keep your GitHub streak alive 🔥
 
 ---
 
