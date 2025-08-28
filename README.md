@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif" width="250" alt="Banner">
 </p>
 
-<h1 align="center">🔥 <strong>GitHub Streak Maintainer Pro++</strong> 🔥</h1>
+<h1 align="center">🔥 <strong>GitHub Streak Maintainer Pro+</strong> 🔥</h1>
 <p align="center"><em>Keep your streak alive, even while you sleep!</em></p>
 
 ---
@@ -68,18 +68,6 @@ Just upload files → GitHub Actions will handle everything.
 
 ---
 
-# 🚀 GitHub Streak Maintainer (Pro++)
-
-![Streak](https://img.shields.io/badge/Streak-Active-brightgreen)
-
-This repository automatically updates daily to keep your GitHub streak alive 🔥
-
----
-
-## 📅 Commit History
-| # | Date & Time (UTC) | Message | Quote |
-|---|--------------------|---------|-------|
-
 ## <p align="center">📝 <strong>Changelog</strong></p>
 
 <details>
@@ -101,3 +89,18 @@ v2.0 → Pro Design + Commit History Table + Stylish UI.
 </p>
 
 ---
+
+## 🚀 GitHub Streak Tracke (Pro+)
+
+![Streak](https://img.shields.io/badge/Streak-Active-brightgreen)
+
+---
+
+## 📅 Commit History
+| # | Date & Time (UTC) | Message | Quote |
+|---|--------------------|---------|-------|
+| 0 | 2025-08-28 04:20:42 | Minor fix ☘️ | 👻 Shadows whisper in silence |
+| 0 | 2025-08-28 04:47:31 | Improved performance 🍀 | 💀 Darkness never sleeps |
+| 1 | 2025-08-28 05:12:24 | Adding a new record 🐉 | ⚡ Power never dies |
+| 2 | 2025-08-28 11:10:11 | Daily streak maintenance 🏝️ | ⚡ Power never dies |
+| 3 | 2025-08-28 17:10:27 | Small tweak 🌳 | ⚡ Power never dies |
