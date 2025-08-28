@@ -32,4 +32,5 @@ jobs:
 
           git add README.md
           git commit -m "$COMMIT_MSG" || echo "No changes to commit"
-          git push
+          git pull --rebase origin main
+          git push origin main
