@@ -14,8 +14,8 @@ jobs:
 
       - name: Configure Git
         run: |
-          git config --local user.email "114274102+SaeedX302@users.noreply.github.com"
-          git config --local user.name "SaeedX302"
+          git config --local user.email "154684931+nisarx302@users.noreply.github.com"
+          git config --local user.name "nisarx302"
 
       - name: Generate Random Commit
         run: |
