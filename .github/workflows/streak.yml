@@ -1,8 +1,8 @@
-name: Maintain GitHub Streak (Pro+)
+name: Maintain GitHub Streak (Pro++ README)
 
 on:
   schedule:
-    - cron: '0 5-23/6 * * *'  # Har 6 ghante me run hoga (4 times/day)
+    - cron: '0 5-23/6 * * *'  # Har 6 ghante me run hoga
   workflow_dispatch:
 
 jobs:
@@ -17,11 +17,19 @@ jobs:
           git config --local user.email "154684931+nisarx302@users.noreply.github.com"
           git config --local user.name "nisarx302"
 
-      - name: Generate Random Commit
+      - name: Update README
         run: |
+          TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M:%S")
           COMMIT_MSG=$(shuf -n 1 commit_messages.txt)
-          echo "$(date)" >> streak.txt
-          echo "Random change: $RANDOM" >> file_$RANDOM.txt
-          git add .
+          QUOTES=("💀 Darkness never sleeps" "🔥 Keep the flame alive" "👻 Shadows whisper in silence" "⚡ Power never dies" "🕯️ Light in the darkness")
+          RANDOM_QUOTE=${QUOTES[$RANDOM % ${#QUOTES[@]}]}
+          
+          # Count existing rows in the table (ignore header lines)
+          COUNT=$(grep -c "^|" README.md)
+          NEW_COUNT=$((COUNT - 3 + 1)) # subtract header lines
+
+          echo "| $NEW_COUNT | $TIMESTAMP | $COMMIT_MSG | $RANDOM_QUOTE |" >> README.md
+
+          git add README.md
           git commit -m "$COMMIT_MSG" || echo "No changes to commit"
           git push
