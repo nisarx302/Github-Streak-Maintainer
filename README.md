@@ -99,8 +99,4 @@ v2.0 → Pro Design + Commit History Table + Stylish UI.
 ## 📅 Commit History
 | # | Date & Time (UTC) | Message | Quote |
 |---|--------------------|---------|-------|
-| 0 | 2025-08-28 04:20:42 | Minor fix ☘️ | 👻 Shadows whisper in silence |
-| 0 | 2025-08-28 04:47:31 | Improved performance 🍀 | 💀 Darkness never sleeps |
-| 1 | 2025-08-28 05:12:24 | Adding a new record 🐉 | ⚡ Power never dies |
-| 2 | 2025-08-28 11:10:11 | Daily streak maintenance 🏝️ | ⚡ Power never dies |
-| 3 | 2025-08-28 17:10:27 | Small tweak 🌳 | ⚡ Power never dies |
+
