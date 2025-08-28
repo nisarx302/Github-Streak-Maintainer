@@ -68,19 +68,17 @@ Just upload files → GitHub Actions will handle everything.
 
 ---
 
-## <p align="center">📈 <strong>Commit History</strong></p>
+# 🚀 GitHub Streak Maintainer (Pro++)
 
-###	Date & Time (UTC)	Message	Quote
+![Streak](https://img.shields.io/badge/Streak-Active-brightgreen)
 
+This repository automatically updates daily to keep your GitHub streak alive 🔥
 
+---
 
-<details>
-<summary>📜 View Daily Streak Log</summary>#	Date & Time (UTC)	Message	Quote
-
-1	2025-08-28 20:15:01	Automated streak update	💀 Darkness never sleeps
-
-
-</details>
+## 📅 Commit History
+| # | Date & Time (UTC) | Message | Quote |
+|---|--------------------|---------|-------|
 
 ## <p align="center">📝 <strong>Changelog</strong></p>
 
