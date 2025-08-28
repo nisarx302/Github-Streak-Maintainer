@@ -68,18 +68,6 @@ Just upload files → GitHub Actions will handle everything.
 
 ---
 
-# 🚀 GitHub Streak Maintainer (Pro++)
-
-![Streak](https://img.shields.io/badge/Streak-Active-brightgreen)
-
-This repository automatically updates daily to keep your GitHub streak alive 🔥
-
----
-
-## 📅 Commit History
-| # | Date & Time (UTC) | Message | Quote |
-|---|--------------------|---------|-------|
-
 ## <p align="center">📝 <strong>Changelog</strong></p>
 
 <details>
@@ -101,4 +89,16 @@ v2.0 → Pro Design + Commit History Table + Stylish UI.
 </p>
 
 ---
+
+## 🚀 GitHub Streak Maintainer (Pro++)
+
+![Streak](https://img.shields.io/badge/Streak-Active-brightgreen)
+
+This repository automatically updates daily to keep your GitHub streak alive 🔥
+
+---
+
+## 📅 Commit History
+| # | Date & Time (UTC) | Message | Quote |
+|---|--------------------|---------|-------|
 | 0 | 2025-08-28 04:20:42 | Minor fix ☘️ | 👻 Shadows whisper in silence |
