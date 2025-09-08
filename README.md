@@ -35,10 +35,10 @@ This project ensures your GitHub contributions never stop. It updates your <code
 
 ## <p align="center">🚀 <strong>Quick Start</strong></p>
 
-###  1. Fork This Repo  
+###  1. Download This Repo  
 <p>
-<a href="https://github.com/SaeedX302/Github-Streak-Maintainer/fork">
-<img src="https://img.shields.io/badge/FORK-REPO-blue?style=for-the-badge&logo=github" alt="Fork Badge">
+<a href="https://github.com/nisarx302/Github-Streak-Maintainer/archive/refs/heads/main.zip">
+<img src="https://img.shields.io/badge/DOWNLOAD-REPO-blue?style=for-the-badge&logo=github" alt="DOWNLOAD Badge">
 </a>
 </p>
 
@@ -51,6 +51,11 @@ Replace:
 - `user.email` → Your GitHub **noreply email**
 - `user.name` → Your **GitHub username**
 
+
+ <strong>if You don't know about Github No reply mail Ask Ai For </strong>
+
+ 
+    how to get GitHub no reply mail from settings
 
 ###  3. Save & Run Workflow  
 `- Commit changes`  
@@ -90,9 +95,17 @@ v2.0 → Pro Design + Commit History Table + Stylish UI.
 
 ---
 
-## 🚀 GitHub Streak Tracke (Pro+)
+<div align="center">
+  
+## 🚀 GitHub Streak Maintainer Pro+
 
 ![Streak](https://img.shields.io/badge/Streak-Active-brightgreen)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=nisarx302&theme=radical)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nisarx302&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![GitHub Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nisarx302&theme=default&utcOffset=5)
+
+</div>
 
 ---
 
