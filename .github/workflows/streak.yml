@@ -1,4 +1,4 @@
-name: Maintain GitHub Streak Pro+
+name: Maintain GitHub Streak Pro +
 
 on:  
   schedule:  
@@ -22,14 +22,15 @@ jobs:
 
       - name: Update README  
         run: |
-          TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M:%S")
+          # YEH LINE BADAL DI GAYI HAI (THIS LINE HAS BEEN CHANGED) 👇
+          TIMESTAMP=$(TZ="Asia/Karachi" date +"%Y-%m-%d %H:%M:%S")
           COMMIT_MSG=$(shuf -n 1 commit_messages.txt)
           QUOTES=("💀 Darkness never sleeps" "🔥 Keep the flame alive" "👻 Shadows whisper in silence" "⚡ Power never dies" "🕯️ Light in the darkness")
           RANDOM_QUOTE=${QUOTES[$RANDOM % ${#QUOTES[@]}]}
 
           # Purani history ko preserve karo, sirf nayi row add karo
           if ! grep -q "## 📅 Commit History" README.md; then
-            echo -e "## 📅 Commit History\n| # | Date & Time (UTC) | Message | Quote |\n|---|--------------------|---------|-------|" >> README.md
+            echo -e "## 📅 Commit History\n| # | Date & Time (PKT) | Message | Quote |\n|---|--------------------|---------|-------|" >> README.md
           fi
 
           # Count existing rows (ignore header lines)
