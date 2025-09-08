@@ -35,10 +35,10 @@ This project ensures your GitHub contributions never stop. It updates your <code
 
 ## <p align="center">🚀 <strong>Quick Start</strong></p>
 
-###  1. Download This Repo  
+###  1. Template This Repo  
 <p>
-<a href="https://github.com/nisarx302/Github-Streak-Maintainer/archive/refs/heads/main.zip">
-<img src="https://img.shields.io/badge/DOWNLOAD-REPO-blue?style=for-the-badge&logo=github" alt="DOWNLOAD Badge">
+<a href="https://github.com/new?template_name=Github-Streak-Maintainer&template_owner=saeedx302">
+<img src="https://img.shields.io/badge/TEMPLATE-REPO-blue?style=for-the-badge&logo=github" alt="DOWNLOAD Badge">
 </a>
 </p>
 
@@ -110,6 +110,6 @@ v2.0 → Pro Design + Commit History Table + Stylish UI.
 ## 📅 Commit History
 | # | Date & Time (UTC) | Message | Quote |
 |---|--------------------|---------|-------|
-| -1 | 2025-09-08 10:15:01 | Automated streak update 🌷 | 🕯️ Light in the darkness |
+| -1 | 2025-09-08 10:15:01 |  TESTING  | TESTING  |
 | 0 | 2025-09-08 15:19:12 | Automated streak update 🌷 | 💀 Darkness never sleeps |
 | 1 | 2025-09-08 16:11:43 | Abstract & Philosophical 🤔 | ⚡ Power never dies |
