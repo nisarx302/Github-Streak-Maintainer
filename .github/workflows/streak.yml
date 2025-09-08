@@ -1,9 +1,12 @@
-name: Maintain GitHub Streak (Pro++ README)
+name: Maintain GitHub Streak Pro+
 
 on:  
   schedule:  
-    - cron: '0 5-23/6 * * *'  # Har 6 ghante me run hoga  
+    - cron: '0 5-23/6 * * *'  
   workflow_dispatch:  
+
+permissions:
+  contents: write
 
 jobs:  
   build:  
