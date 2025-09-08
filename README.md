@@ -102,8 +102,6 @@ v2.0 → Pro Design + Commit History Table + Stylish UI.
 ![Streak](https://img.shields.io/badge/Streak-Active-brightgreen)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=nisarx302&theme=radical)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nisarx302&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![GitHub Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nisarx302&theme=default&utcOffset=5)
 
 </div>
 
